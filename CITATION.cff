@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Sí te gustó este software, favor de citarlo así"
+authors:
+  - family-names: Quijano-Abán
+    given-names: Victor Manuel
+    orcid: https://orcid.org/0000-0002-6192-0797
+title: "Jalisco Tech Hub Act, Laborartorio 1"
+version: 2.0.4
+identifiers:
+  - type: doi
+    value:  10.35429/jsem.2020.20.7.26.32
+date-released: 2024-03-01
